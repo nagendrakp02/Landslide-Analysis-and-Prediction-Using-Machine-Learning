@@ -1,0 +1,9 @@
+ipykernel
+scikit-learn
+openpyxl
+pandas
+numpy
+seaborn
+matplotlib
+beautifulsoup4
+requests
